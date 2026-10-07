@@ -1,0 +1,8 @@
+{
+  "name": "Quran Comprehensive & Riwayat Engine",
+  "description": "Advanced Islamic Quran & Riwayat Engine featuring multi-Riwayat support, 10 distinguished Qaris per Riwaya, audio streaming with verse synchronization, and Uthmani Mushaf reader.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
